@@ -1,0 +1,55 @@
+body {
+    background-color: wheat;
+}
+
+img {
+    border: #B73E3E;
+    border-style: inset;
+    border-width: 2px;
+}
+
+p {
+    color: #db6262;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: aliceblue;
+    width: 7%;
+    border-width: 5px;
+    height: 0px;
+}
+
+h1 {
+    color: #B73E3E;
+}
+
+h3 {
+    color: #B73E3E;
+}
+
+ul li {
+    color: #db6262;
+}
+
+table th {
+    color: #db5050;
+}
+
+table td {
+    color: #db6262;
+}
+
+a{
+    color: #B73E3E;
+}
+
+footer {
+    background-color: #B73E3E;
+    width: 100%;
+}
+
+footer a {
+    color: wheat;
+}
