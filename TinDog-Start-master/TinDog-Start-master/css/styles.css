@@ -130,3 +130,14 @@ h1 {
 .pricing-column {
     padding: 3% 2%;
 }
+
+@media (max-width:1125px) {
+    #title {
+        text-align: center;
+    }
+    .iphone-img {
+        width: 80%;
+        position: static;
+        transform: rotate(0deg);
+    }
+}
